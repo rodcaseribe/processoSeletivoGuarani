@@ -32,7 +32,7 @@ Você pode visualizar o projeto no navegador no endereço local da sua máquina:
 
 Detalhes bacanas:
 
-# Para resolver o problemma de cors na consulta de CNPJ da receitaWS  foi necessário criar um servidor serverSide, para consumir a api de localhost->localhost->receitaWS
+# Para resolver o problema de cors na consulta de CNPJ da receitaWS  foi necessário criar um servidor serverSide, para consumir a api de localhost->localhost->receitaWS
 utilizei o Next/React no caso para não precisar colocar um backend em PHP a parte.
 
 
